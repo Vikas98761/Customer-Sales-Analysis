@@ -52,6 +52,26 @@ The project contains three tables:
 
 ## Project Files
 - `Customer_Sales_Analysis_1.sql` – Complete SQL queries used for analysis.
+  
+## 📊 Project Screenshots
 
-## Author
+### 1. Overall Revenue Analysis
+![Overall Revenue](Screenshots/01_Overall_Revenue.png)
+
+### 2. Category Wise Revenue
+![Category Wise Revenue](Screenshots/02_Category_Wise_Revenue.png)
+
+### 3. Category Wise Revenue Analysis
+![Category Wise Revenue Analysis](Screenshots/03_Category_Wise_Revenue.png)
+
+### 4. Customer Segment Analysis
+![Customer Segment](Screenshots/04_Customer_Segment.png)
+
+### 5. Top 3 Customers by Region
+![Top 3 Customers](Screenshots/05_Top3_Customers_By_Region.png)
+
+### 6. Monthly Sales by City
+![Monthly Sales](Screenshots/06.Monthly_Sales_By_City.png)
+
+### Author
 Vikas D A

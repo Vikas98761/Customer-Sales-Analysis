@@ -74,4 +74,4 @@ The project contains three tables:
 ![Monthly Sales](Screenshots/06.Monthly_Sales_By_City.png)
 
 ### Author
-Vikas D A
+Dulam Vikas D A
